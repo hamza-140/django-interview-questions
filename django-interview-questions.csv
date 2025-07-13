@@ -1,0 +1,9 @@
+No.,Question
+1,What is the difference between null=True and blank=True in Django models?
+2,"What is the difference between a ForeignKey, OneToOneField, and ManyToManyField in Django models?"
+3,What happens when you set on_delete=models.CASCADE in a ForeignKey?
+4,What is the purpose of Django’s QuerySet? Can you give an example of how it's used and what advantages it offers over raw SQL?
+5,What are Django’s class-based views (CBVs)? How are they different from function-based views (FBVs)?
+6,What is the purpose of Django’s urls.py file?
+7,"What are Django middleware components, and what are they used for?"
+8,How does Django's template system work?
