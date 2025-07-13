@@ -1,4 +1,4 @@
-\# Django Interview Questions
+# Django Interview Questions
 
 
 
@@ -6,7 +6,7 @@ This repository contains a curated list of Django interview questions in CSV for
 
 
 
-\## Preview
+## Preview
 
 
 
@@ -40,21 +40,21 @@ See the CSV file for the full list.
 
 
 
-\## Usage
+## Usage
 
 
 
-\- \*\*Download or clone the repository.\*\*
+- **Download or clone the repository.**
 
-\- The questions are provided in \[`django-interview-questions.csv`](./django-interview-questions.csv).
+- The questions are provided in [`django-interview-questions.csv`](./django-interview-questions.csv).
 
-\- Open the CSV file with Excel, Google Sheets, LibreOffice, or any compatible text editor.
+- Open the CSV file with Excel, Google Sheets, LibreOffice, or any compatible text editor.
 
-\- You can use these questions for interview preparation, screening, quizzes, or as a study guide.
+- You can use these questions for interview preparation, screening, quizzes, or as a study guide.
 
 
 
-\## Contributing
+## Contributing
 
 
 
@@ -64,7 +64,7 @@ Feel free to submit new questions, corrections, or improvements via pull request
 
 
 
-\## License
+## License
 
 
 
